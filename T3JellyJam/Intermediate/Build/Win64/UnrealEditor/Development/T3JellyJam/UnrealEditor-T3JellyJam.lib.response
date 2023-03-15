@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-T3JellyJam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\aaron\JellyJam\T3JellyJam\Intermediate\Build\Win64\T3JellyJamEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\aaron\JellyJam\T3JellyJam\Intermediate\Build\Win64\UnrealEditor\Development\T3JellyJam\T3JellyJam.cpp.obj"
+"D:\aaron\JellyJam\T3JellyJam\Intermediate\Build\Win64\UnrealEditor\Development\T3JellyJam\T3JellyJamGameModeBase.cpp.obj"
+"D:\aaron\JellyJam\T3JellyJam\Intermediate\Build\Win64\UnrealEditor\Development\T3JellyJam\T3JellyJam.init.gen.cpp.obj"
+"D:\aaron\JellyJam\T3JellyJam\Intermediate\Build\Win64\UnrealEditor\Development\T3JellyJam\T3JellyJamGameModeBase.gen.cpp.obj"
+"D:\aaron\JellyJam\T3JellyJam\Intermediate\Build\Win64\UnrealEditor\Development\T3JellyJam\Default.rc2.res"
+/OUT:"D:\aaron\JellyJam\T3JellyJam\Intermediate\Build\Win64\UnrealEditor\Development\T3JellyJam\UnrealEditor-T3JellyJam.lib"

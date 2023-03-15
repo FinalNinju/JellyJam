@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "T3JellyJam",
+			"Path": "D:\\aaron\\JellyJam\\T3JellyJam\\Source\\T3JellyJam.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "T3JellyJamEditor",
+			"Path": "D:\\aaron\\JellyJam\\T3JellyJam\\Source\\T3JellyJamEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

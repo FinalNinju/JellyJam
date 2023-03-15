@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\T3JellyJam.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\T3JellyJam.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\T3JellyJamEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\T3JellyJam">
+      <UniqueIdentifier>{3C0C5580-DDA4-3429-A828-D343F4BB6386}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\T3JellyJam\T3JellyJam.Build.cs">
+      <Filter>Source\T3JellyJam</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\T3JellyJam\T3JellyJam.cpp">
+      <Filter>Source\T3JellyJam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\T3JellyJam\T3JellyJam.h">
+      <Filter>Source\T3JellyJam</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\T3JellyJam\T3JellyJamGameModeBase.cpp">
+      <Filter>Source\T3JellyJam</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\T3JellyJam\T3JellyJamGameModeBase.h">
+      <Filter>Source\T3JellyJam</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

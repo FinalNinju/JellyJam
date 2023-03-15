@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\aaron\\jellyjam\\t3jellyjam\\intermediate\\build\\win64\\unrealeditor\\inc\\t3jellyjam\\t3jellyjam.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\aaron\\jellyjam\\t3jellyjam\\intermediate\\build\\win64\\t3jellyjameditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\aaron\\jellyjam\\t3jellyjam\\intermediate\\build\\win64\\unrealeditor\\development\\t3jellyjam\\definitions.t3jellyjam.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
